@@ -1,3 +1,3 @@
 # NSI
-Depôt Jupiterr
+Depôt Jupiter
 On placera ici des fichiers .ipynb 
